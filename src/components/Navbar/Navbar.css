@@ -1,0 +1,32 @@
+.navbar li {
+    display: inline-block;
+    text-align: center;
+}
+
+.title {
+    width: 15%;
+    margin-right: 100px;
+}
+
+.messaging {
+    width: 50%;
+    margin-right: 30px;
+}
+
+.scoring {
+  margin-left: 100px;
+  width: 35%;
+}
+
+.navbar {
+  background: #490549;
+}
+
+li {
+  color: white;
+  padding: 25px;
+}
+
+body {
+  font-size: 24px;
+}
